@@ -72,9 +72,3 @@ Más allá del trabajo diario, administro un **homelab propio** (Proxmox, 9 cont
 🇪🇸 SaaS de monitorización de carga deportiva — arquitectura backend, permisos multinivel, integración ETL de datos GPS.
 <br>
 <sub>→ Architecture write-up: <code>mams-architecture</code> (coming soon)</sub>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuillermoAlbert&show_icons=true&hide_border=true&title_color=11203a&icon_color=2563a8&text_color=444&bg_color=ffffff" alt="GitHub stats" height="150">
-</p>
