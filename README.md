@@ -71,4 +71,4 @@ Más allá del trabajo diario, administro un **homelab propio** (Proxmox, 9 cont
 <br>
 🇪🇸 SaaS de monitorización de carga deportiva — arquitectura backend, permisos multinivel, integración ETL de datos GPS.
 <br>
-<sub>→ Architecture write-up: <code>mams-architecture</code> (coming soon)</sub>
+<sub>→ Architecture write-up: <a href="https://github.com/GuillermoAlbert/mams-architecture">mams-architecture</a></sub>
