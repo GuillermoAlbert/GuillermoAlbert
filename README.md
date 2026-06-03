@@ -4,9 +4,14 @@
   <strong>Full Stack Developer</strong> · Java · Spring · Angular · PostgreSQL
   <br>
   <em>Self-hosted infrastructure enthusiast — Proxmox, Docker, Tailscale</em>
+  <br>
+  🌐 <a href="https://guillermoalbert.dev">guillermoalbert.dev</a>
 </p>
 
 <p align="center">
+  <a href="https://guillermoalbert.dev">
+    <img src="https://img.shields.io/badge/Portfolio-11203a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://linkedin.com/in/guillermo-albert-garcia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
