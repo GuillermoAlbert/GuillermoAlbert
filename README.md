@@ -95,7 +95,11 @@ Vengo de la investigación en biología: 3 publicaciones, entre ellas una de det
 <br>
 🇪🇸 Clasificación de correos y borradores de respuesta sobre un RAG autoalojado (9.571 fragmentos, embeddings locales); nada se envía sin confirmación humana. Más de 8.000 tests, hechos por agentes de IA a partir de 13 especificaciones mías.
 <br>
-<sub>→ Video and details: <a href="https://guillermoalbert.dev/en#work">guillermoalbert.dev</a></sub>
+<a href="https://guillermoalbert.dev/video/asistente-operativo-en.mp4">
+  <img src="https://guillermoalbert.dev/video/asistente-operativo-en.jpg" alt="Operations assistant — watch the video" width="640">
+</a>
+<br>
+<sub>▶ Click the image to watch the video · <a href="https://guillermoalbert.dev/en#work">more on guillermoalbert.dev</a></sub>
 
 **MAMS — My Athlete Monitoring System** · Spring Boot · PostgreSQL · Spring Security + JWT · React (built with AI agents)
 <br>
